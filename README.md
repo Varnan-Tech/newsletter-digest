@@ -1,5 +1,8 @@
 # newsletter-digest
 
+<img width="1280" height="640" alt="newsletter-digest" src="https://github.com/user-attachments/assets/cb2879ae-eb5c-4727-a1a2-47b4462a699b" />
+
+
 Aggregate RSS feeds, synthesize the week's top stories with Gemini, and publish a newsletter digest to Ghost CMS. Supports three digest formats and outputs HTML, Markdown, and plain text for any platform.
 
 ## What It Does
